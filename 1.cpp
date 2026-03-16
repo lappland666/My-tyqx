@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>
-#include "mymath.cpp"
+#include "mymath.h"
 using namespace std;
 
 int main()
